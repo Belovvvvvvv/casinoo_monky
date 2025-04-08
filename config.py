@@ -89,7 +89,7 @@ mine_cof = {
 def create_config():
     config = configparser.ConfigParser()
     config.add_section("Settings")
-    config.set("Settings", "bot_token", "5499643165:AAFbvAg--JBspZ4MJEjH8")
+    config.set("Settings", "bot_token", "7847197165:AAGEzYCC1GmMVoxhM804vPXs5LyNPuneCeU")
     config.set("Settings", "admin_id", "2143514251;1265698676;1132564640")
     config.set("Settings", "p2p_qiwi_key", "")
     config.set("Settings", "admin_chat", "-1001504493912")
